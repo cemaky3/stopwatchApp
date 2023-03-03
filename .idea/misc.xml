@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/drawable/ic_baseline_av_timer_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/drawable/ic_launcher_background.xml" value="0.20625" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/drawable/pb_drawable.xml" value="0.2203125" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Samsung/AndroidStudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+</project>
