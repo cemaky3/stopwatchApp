@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Samsung\.gradle\caches\transforms-3\5d405d4637c7590b9ce679f134c5c329\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\602f15ef1589aa0421d0472741273aa6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Samsung\.gradle\caches\transforms-3\18420f5859e3056c521451d2ec53ef80\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Samsung\.gradle\caches\transforms-3\2ba2bb641aa07290ec940c9d9219bbb9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\66fd5189366658e9e1a64bc15bb35c0e\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\e710d65073bcfc8a95918bd91ec5d7ee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Samsung\.gradle\caches\transforms-3\0897f37c4a769e2b2f2d16998b0aa366\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Samsung\.gradle\caches\transforms-3\baba11a29754893d6e605440f7a0d8fb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\122fd7436cc0bf8f8cf012ab96090a14\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\cdb45f170ce480691526e6b7fd406159\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\8fecf9b8db4afab6550f63b8de279c73\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\948bf2953e467c3d38c189cc172591f4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Samsung\.gradle\caches\transforms-3\30b2724e141efc038ad7588cf2dbcba5\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\f70f598df28d8dd50b135f2bac478931\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\57101dfe99c2dcf94a87cc4da1babe49\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\eebb1cdd441aed978220c822198aec13\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\d70efd05e968b3653573b0f9abfa1070\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a780edfc4ad8db0fb55bccb6a4dc8c09\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\e81175403a7f2946a2ef74396f9b8cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\720b5305e66d9e21aa2cd95b6239195a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\24cc825ec38c6b0530063f095d1df325\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\a91457a0173cd1bcbcda5a1698e524ce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\96ff808f507dcacceb9b02cd9096b4bf\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\1358699fb0563a31a05fbd1379fe20b4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\12112b2cfd1dcfbd7396b91279f663cd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1368374a026e6448f537bdd5b46ff3c5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Samsung\.gradle\caches\transforms-3\3f97cfa90141c1ec9a0c33e3de5bd4b3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1a015b25e19c97b2be82d71487c25a38\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8201f666226a47debb987a6249e13435\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\01e82e58af5c35db7c9f28e6a6909189\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\c22c9d6da7e77e602525a24996fc4541\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\0f6198c0eb8beee49093a9b32c1fde15\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8c22f8d3fe4971bbaec4cd524da545e3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\2922cd3e95ad4e6426805ddf5b95bd9a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a5e9470bbb120f51e57edb7c64373331\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\0a6ade2263ae557efab8efebfa0945c9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Samsung\.gradle\caches\transforms-3\18420f5859e3056c521451d2ec53ef80\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Samsung\.gradle\caches\transforms-3\18420f5859e3056c521451d2ec53ef80\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Samsung\.gradle\caches\transforms-3\2ba2bb641aa07290ec940c9d9219bbb9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Samsung\.gradle\caches\transforms-3\2ba2bb641aa07290ec940c9d9219bbb9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Samsung\.gradle\caches\transforms-3\3f97cfa90141c1ec9a0c33e3de5bd4b3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Samsung\.gradle\caches\transforms-3\3f97cfa90141c1ec9a0c33e3de5bd4b3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.stopwatch.MainActivity
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:12:15-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Samsung\.gradle\caches\transforms-3\5d405d4637c7590b9ce679f134c5c329\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Samsung\.gradle\caches\transforms-3\5d405d4637c7590b9ce679f134c5c329\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\602f15ef1589aa0421d0472741273aa6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\602f15ef1589aa0421d0472741273aa6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Samsung\.gradle\caches\transforms-3\18420f5859e3056c521451d2ec53ef80\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Samsung\.gradle\caches\transforms-3\18420f5859e3056c521451d2ec53ef80\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Samsung\.gradle\caches\transforms-3\2ba2bb641aa07290ec940c9d9219bbb9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Samsung\.gradle\caches\transforms-3\2ba2bb641aa07290ec940c9d9219bbb9\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\66fd5189366658e9e1a64bc15bb35c0e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\66fd5189366658e9e1a64bc15bb35c0e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\e710d65073bcfc8a95918bd91ec5d7ee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\e710d65073bcfc8a95918bd91ec5d7ee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Samsung\.gradle\caches\transforms-3\0897f37c4a769e2b2f2d16998b0aa366\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Samsung\.gradle\caches\transforms-3\0897f37c4a769e2b2f2d16998b0aa366\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Samsung\.gradle\caches\transforms-3\baba11a29754893d6e605440f7a0d8fb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Samsung\.gradle\caches\transforms-3\baba11a29754893d6e605440f7a0d8fb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\122fd7436cc0bf8f8cf012ab96090a14\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\122fd7436cc0bf8f8cf012ab96090a14\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\cdb45f170ce480691526e6b7fd406159\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\cdb45f170ce480691526e6b7fd406159\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\8fecf9b8db4afab6550f63b8de279c73\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\8fecf9b8db4afab6550f63b8de279c73\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\948bf2953e467c3d38c189cc172591f4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\948bf2953e467c3d38c189cc172591f4\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Samsung\.gradle\caches\transforms-3\30b2724e141efc038ad7588cf2dbcba5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Samsung\.gradle\caches\transforms-3\30b2724e141efc038ad7588cf2dbcba5\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\f70f598df28d8dd50b135f2bac478931\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\f70f598df28d8dd50b135f2bac478931\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\57101dfe99c2dcf94a87cc4da1babe49\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\57101dfe99c2dcf94a87cc4da1babe49\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\eebb1cdd441aed978220c822198aec13\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\eebb1cdd441aed978220c822198aec13\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\d70efd05e968b3653573b0f9abfa1070\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\d70efd05e968b3653573b0f9abfa1070\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a780edfc4ad8db0fb55bccb6a4dc8c09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a780edfc4ad8db0fb55bccb6a4dc8c09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\e81175403a7f2946a2ef74396f9b8cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\e81175403a7f2946a2ef74396f9b8cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\720b5305e66d9e21aa2cd95b6239195a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\720b5305e66d9e21aa2cd95b6239195a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\ef9585708de2b4d41e92167cf32d202a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\24cc825ec38c6b0530063f095d1df325\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\24cc825ec38c6b0530063f095d1df325\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\a91457a0173cd1bcbcda5a1698e524ce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\a91457a0173cd1bcbcda5a1698e524ce\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\96ff808f507dcacceb9b02cd9096b4bf\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\96ff808f507dcacceb9b02cd9096b4bf\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\1358699fb0563a31a05fbd1379fe20b4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\1358699fb0563a31a05fbd1379fe20b4\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\12112b2cfd1dcfbd7396b91279f663cd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\12112b2cfd1dcfbd7396b91279f663cd\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1368374a026e6448f537bdd5b46ff3c5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1368374a026e6448f537bdd5b46ff3c5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Samsung\.gradle\caches\transforms-3\3f97cfa90141c1ec9a0c33e3de5bd4b3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Samsung\.gradle\caches\transforms-3\3f97cfa90141c1ec9a0c33e3de5bd4b3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1a015b25e19c97b2be82d71487c25a38\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\1a015b25e19c97b2be82d71487c25a38\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8201f666226a47debb987a6249e13435\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8201f666226a47debb987a6249e13435\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\01e82e58af5c35db7c9f28e6a6909189\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Samsung\.gradle\caches\transforms-3\01e82e58af5c35db7c9f28e6a6909189\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\c22c9d6da7e77e602525a24996fc4541\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\c22c9d6da7e77e602525a24996fc4541\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\0f6198c0eb8beee49093a9b32c1fde15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\0f6198c0eb8beee49093a9b32c1fde15\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8c22f8d3fe4971bbaec4cd524da545e3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\8c22f8d3fe4971bbaec4cd524da545e3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\2922cd3e95ad4e6426805ddf5b95bd9a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\2922cd3e95ad4e6426805ddf5b95bd9a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a5e9470bbb120f51e57edb7c64373331\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Samsung\.gradle\caches\transforms-3\a5e9470bbb120f51e57edb7c64373331\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\0a6ade2263ae557efab8efebfa0945c9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Samsung\.gradle\caches\transforms-3\0a6ade2263ae557efab8efebfa0945c9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Samsung\AndroidStudioProjects\Stopwatch with Productivity Timer\Stopwatch with Productivity Timer\task\src\main\AndroidManifest.xml

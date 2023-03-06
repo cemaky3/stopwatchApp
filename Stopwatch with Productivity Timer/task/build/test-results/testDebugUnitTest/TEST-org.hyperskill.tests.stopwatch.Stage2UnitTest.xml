@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage2UnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-03-02T14:59:20" hostname="WIN-EHTH946KNBS" time="1.511">
+  <properties/>
+  <testcase name="checkDisplayOneMinuteInsteadOf60Seconds" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.256"/>
+  <testcase name="checkCountOneSecondAfterOneSecondOnStartButtonClick" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.148"/>
+  <testcase name="checkStopTimerAndResetCountOnResetButtonClick" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.168"/>
+  <testcase name="checkTakeOneSecondToCountOneSecondOnStartButtonClick" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.198"/>
+  <testcase name="checkContinueCountOnPressingStartButtonAgain" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.167"/>
+  <testcase name="checkIgnorePressingResetButtonAgain" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.178"/>
+  <testcase name="checkCheckTimerInitialValue" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.135"/>
+  <testcase name="checkMinuteIsNotEarly" classname="org.hyperskill.tests.stopwatch.Stage2UnitTest" time="0.26"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+org/hyperskill/stopwatch/BuildConfig.java
+ org.hyperskill.stopwatch.BuildConfig
+org/hyperskill/stopwatch/databinding/ActivityMainBinding.java
+ org.hyperskill.stopwatch.databinding.ActivityMainBinding
+org/hyperskill/stopwatch/databinding/SettingsDialogBinding.java
+ org.hyperskill.stopwatch.databinding.SettingsDialogBinding

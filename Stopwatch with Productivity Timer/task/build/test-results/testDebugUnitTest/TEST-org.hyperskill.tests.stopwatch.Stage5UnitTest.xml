@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage5UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-02T14:59:06" hostname="WIN-EHTH946KNBS" time="13.988">
+  <properties/>
+  <testcase name="test01_CheckNotificationIsNotSentBeforeTimeLimit" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="11.508"/>
+  <testcase name="test02_CheckNotificationIsNotSentWithTimeLimitSetToZero" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.837"/>
+  <testcase name="test03_CheckNotificationIsNotSentWithTimeLimitSetToNegative" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.586"/>
+  <testcase name="test04_CheckNotificationIsNotSentClickingResetBeforeTimeExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.591"/>
+  <testcase name="test05_CheckNotificationIsSentOnTimeLimitExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.465"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\Samsung\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
